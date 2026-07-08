@@ -1,9 +1,9 @@
 class ClaudeStarterKit < Formula
   desc "Agentic working kit for Claude Code — disciplined project scaffolding"
   homepage "https://github.com/byerlikaya/claude-starter-kit"
-  url "https://github.com/byerlikaya/claude-starter-kit/releases/download/v1.0.6/claude-starter-kit-1.0.6.tgz"
-  sha256 "384203d0f9de7cb87c96bce6ad0caa3f8f796d1af189e17766015e490685dc03"
-  version "1.0.6"
+  url "https://github.com/byerlikaya/claude-starter-kit/releases/download/v1.0.7/claude-starter-kit-1.0.7.tgz"
+  sha256 "84bde144df00a90da0f3e3fd433e835adb9dc2569c858d516099c716dfa1879f"
+  version "1.0.7"
   license "MIT"
 
   def install
